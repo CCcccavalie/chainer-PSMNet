@@ -1,7 +1,8 @@
 # Chainer-PSMNet
 Chainer Reimplementation of [PSMNet (CVPR2018)](https://github.com/JiaRenChang/PSMNet)
 
-## 1. Requirements
+## 1. Preparation
+### 1.1. Requirements
 * Python 3.5
 * Chainer 4.2.0
 * ChainerCV 0.10.0
@@ -13,6 +14,10 @@ So please follow original page (https://github.com/JiaRenChang/PSMNet).
 ```
 * NVIDIA Tesla P40 GPU * 2 (basic) 
 * NVIDIA Tesla P40 GPU * 3 (Stacked hourglass)
+
+### 1.2. Pretrained Model
+* [Basic (SceneFlow)](https://drive.google.com/file/d/1pgx0xqj4fLez1tm1yOxhocf0z1xWMQXd/view?usp=sharing)
+* [Basic (KITTI2015)](https://drive.google.com/file/d/1ml-X9M0aXtqoJfUs0xQXb6TJbiLJFmwt/view?usp=sharing)
 
 ## 2. Usage
 ### 2.1. Training
