@@ -5,6 +5,12 @@ Chainer Reimplementation of [PSMNet (CVPR2018)](https://github.com/JiaRenChang/P
 * Python 3.5
 * Chainer 4.2.0
 * ChainerCV 0.10.0
+* [KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
+* [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+```
+Data Structure is the same as original implementation.
+So please follow original page (https://github.com/JiaRenChang/PSMNet).
+```
 * NVIDIA Tesla P40 GPU * 2 (basic) 
 * NVIDIA Tesla P40 GPU * 3 (Stacked hourglass)
 
