@@ -51,8 +51,8 @@ python predict_kitti.py --datapath <Datapath> \
 ### 3.1. KITTI2015
 * Disparity map
 
-<img src="figures/result.png" width=500>
+<img src="figures/result.png" width=700>
 
 * Validation Error
 
-<img src="figures/table.png" width=500>
+<img src="figures/table.png" width=700>
